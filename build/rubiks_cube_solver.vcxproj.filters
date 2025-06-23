@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\Model\RubiksCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\Model\RubiksCube1dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\Model\RubiksCube3dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\Model\RubiksCubeBitboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver-1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3C25A00B-99EE-3C03-BBE6-BB225BB422FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
