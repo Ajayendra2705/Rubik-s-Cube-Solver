@@ -1,0 +1,3 @@
+C:/Users/ajiit/Desktop/Future/Real Projects/Rubik-s-Cube-Solver/CMakeFiles/rubiks_cube_solver.dir
+C:/Users/ajiit/Desktop/Future/Real Projects/Rubik-s-Cube-Solver/CMakeFiles/ALL_BUILD.dir
+C:/Users/ajiit/Desktop/Future/Real Projects/Rubik-s-Cube-Solver/CMakeFiles/ZERO_CHECK.dir

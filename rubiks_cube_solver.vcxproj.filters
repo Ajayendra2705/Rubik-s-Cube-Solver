@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\Model\RubiksCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\Model\RubiksCube1dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\Model\RubiksCube3dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\Model\RubiksCubeBitboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\PatternDatabases\NibbleArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\PatternDatabases\PatternDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\PatternDatabases\CornerPatternDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\PatternDatabases\CornerDBMaker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\PatternDatabases\math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ajiit\Desktop\Future\Real Projects\Rubik-s-Cube-Solver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7BEB0057-689C-3196-BA09-4ABAA7FD30E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
